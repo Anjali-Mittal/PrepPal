@@ -1,0 +1,6 @@
+.env
+data
+*.pyc
+scraping
+backend_logic
+chroma_PrepPal_core
