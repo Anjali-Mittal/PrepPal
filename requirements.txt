@@ -1,9 +1,10 @@
+json
+dotenv
 chromadb
-uvicorn
-fastapi
 requests
 langchain
 python-dotenv
 beautifulsoup4
+langchain-core
 langchain-community
 sentence-transformers
